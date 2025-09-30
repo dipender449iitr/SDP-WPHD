@@ -1,4 +1,4 @@
-# SDP-HMWP
+# SDP-WPHD
 # References of Datasets
 1. Tantithamthavorn, C., McIntosh, S., Hassan, A.E., Ihara, A., Matsumoto, K. (2015). The impact of mislabelling on the performance and interpretation of defect prediction models. In: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering, Vol. 1, pp. 812–823. IEEE.
 
